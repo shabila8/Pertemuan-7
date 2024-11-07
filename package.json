@@ -1,0 +1,32 @@
+{
+  "name": "goreorwo",
+  "version": "1.0.0",
+  "description": "tugas hitlab backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rafa",
+  "license": "ISC",
+  "tasks":[
+    {
+      "id": 1,
+      "task": "bangun tidur",
+      "completed": false
+    },
+  
+    {
+      "id": 2,
+      "task": "sarapan",
+      "completed": false
+    },
+  
+    {
+      "id": 3,
+      "task": "tidur",
+      "completed": false
+    }
+  ]
+}
+
+
